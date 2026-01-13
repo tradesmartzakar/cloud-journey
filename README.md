@@ -20,7 +20,13 @@ Structure:
 - Set up GitHub + LinkedIn for cloud visibility
 - Wrote this public proof log
 - Next up: S3 + IAM “Public Access Problem” lab
-  ## Projects (live/soon)**
+  ## 🔗 Hands-On Projects
+### AWS S3 Public Access Troubleshooting (CloudMart)
+Diagnosed and resolved public AccessDenied errors in an S3-hosted static website by
+analyzing IAM permissions and bucket policies.
+
+👉 Project repo: https://github.com/tradesmartzakar/aws-s3-public-access-lab
+
 ## How I document
 Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
