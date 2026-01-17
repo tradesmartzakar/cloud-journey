@@ -24,7 +24,7 @@ Structure:
   ## 🔗 Hands-On Projects
   
 ### AWS S3 Public Access Troubleshooting (CloudMart)
-Diagnosed and resolved public AccessDenied errors in an S3-hosted static website by
+-Diagnosed and resolved public AccessDenied errors in an S3-hosted static website by
 analyzing IAM permissions and bucket policies.
 
 🔗 **Project Repository:** 
