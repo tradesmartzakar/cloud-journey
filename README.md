@@ -20,12 +20,26 @@ Structure:
 - Set up GitHub + LinkedIn for cloud visibility
 - Wrote this public proof log
 - Next up: S3 + IAM “Public Access Problem” lab
+- 
   ## 🔗 Hands-On Projects
+  
 ### AWS S3 Public Access Troubleshooting (CloudMart)
 Diagnosed and resolved public AccessDenied errors in an S3-hosted static website by
 analyzing IAM permissions and bucket policies.
 
-👉 Project repo: https://github.com/tradesmartzakar/aws-s3-public-access-lab
+🔗 **Project Repository:** 
+https://github.com/tradesmartzakar/aws-s3-public-access-lab
+
+### AWS EC2 Apache Web Server Deployment
+- Launched my first Amazon EC2 instance in a public subnet
+- Configured the public IP address to serve a live webpage
+- Allowed HTTP, HTTPS, and SSH through Security Group rules
+- Automated Apache installation using EC2 User Data
+- Connected via SSH to edit the live `index.html` file
+- Verified deployment by accessing the site via browser
+
+🔗 **Project Repository:**  
+https://github.com/tradesmartzakar/aws-ec2-apache-webserver
 
 ## How I document
 Each project includes: problem → approach → commands/code → screenshots →
