@@ -41,6 +41,16 @@ https://github.com/tradesmartzakar/aws-s3-public-access-lab
 🔗 **Project Repository:**  
 https://github.com/tradesmartzakar/aws-ec2-apache-webserver
 
+### 🌐 AWS S3 Static Portfolio Website
+- Deployed a static portfolio website using **Amazon S3 Static Website Hosting**
+- Configured public access intentionally by managing **Block Public Access** and **bucket policies**
+- Resolved **403 AccessDenied** errors by aligning object paths with policy scope
+- Set `index.html` as the website entry point and verified deployment via the S3 website endpoint
+
+🔗 **Repository:**  
+https://github.com/tradesmartzakar/aws-s3-static-website-portfolio
+
+
 ## How I document
 Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
