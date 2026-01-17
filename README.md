@@ -47,7 +47,7 @@ https://github.com/tradesmartzakar/aws-ec2-apache-webserver
 - Resolved **403 AccessDenied** errors by aligning object paths with policy scope
 - Set `index.html` as the website entry point and verified deployment via the S3 website endpoint
 
-🔗 **Repository:**  
+🔗 **Project Repository:**  
 https://github.com/tradesmartzakar/aws-s3-static-website-portfolio
 
 
